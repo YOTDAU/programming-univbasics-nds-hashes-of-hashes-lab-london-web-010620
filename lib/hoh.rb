@@ -31,9 +31,10 @@
 # }
 
 def naming_system
- Kingdom = {
-   :Phylum = 
-   :Class = {}
+ label: "Kingdom",
+ 
+    = {
+    = {}
    },
  }
  
