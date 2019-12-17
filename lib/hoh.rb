@@ -32,6 +32,8 @@
 
 def naming_system
  label: "Kingdom",
+ sub_category: "Phylum",
+ sub_category
  
     = {
     = {}
